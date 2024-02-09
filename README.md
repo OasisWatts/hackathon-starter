@@ -3,9 +3,12 @@ Hackathon Starter
 =======================
 
 ### MJ
-'''
+
+How to turn on the server
+```bash
 sh openMongoDB.sh
-'''
+node app.js
+```
 
 **Live Demo**: [Link](https://hackathon-starter-1.ydftech.com/)
 
